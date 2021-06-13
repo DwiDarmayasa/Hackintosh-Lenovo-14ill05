@@ -4,7 +4,7 @@
 - Intel Core i3 1005g1 (Ice Lake)
 - Intel UHD Graphics
 - 8 Gb Ram
-- 512 Skynix Sdd m.2
+- 512 Skynix SSD m.2
 - Realtek Alc230
 - Intel 6 Killer Wifi
 - I2C Tracpad
