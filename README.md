@@ -44,4 +44,6 @@
 
 # Credit:
 - Olarila
+https://www.olarila.com/
 - Hackintosh Lover Indonesia
+https://www.facebook.com/groups/329768274758518
