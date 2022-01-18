@@ -28,13 +28,13 @@
 - Camera
 - Graphics Accelaration
 - Battery Management
+- Imassages, FaceTime & Airdrop work propely (need very very good serial numb)
 
 <br/><br/>
 
 
 # What's Not Working?
 - Hdmi
-- Imassages, FaceTime & Airdrop (May Need Good Serial)
 - Card Reader(May Need Patching)
 - etc
 
