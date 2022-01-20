@@ -37,13 +37,12 @@
 - Graphics Accelaration
 - Battery Management
 - Imassages, FaceTime & Airdrop work propely (need very very good serial numb)
-
+- Card Reader (Need Patching)
 <br/><br/>
 
 
 # What's Not Working?
 - Hdmi
-- Card Reader(May Need Patching)
 - etc
 
 <br/><br/>
