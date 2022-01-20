@@ -43,6 +43,8 @@
 
 # What's Not Working?
 - Hdmi
+- apple tv (may need change smbios)
+- airdrop & airplay (need listed wifi hardware)
 - etc
 
 <br/><br/>
